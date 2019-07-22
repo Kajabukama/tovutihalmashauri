@@ -1,0 +1,22 @@
+{
+  "name": "tovutihalmashauri",
+  "version": "1.0.0",
+  "description": "Website for Babati Town Council",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kajabukama/tovutihalmashauri.git"
+  },
+  "keywords": [
+    "website"
+  ],
+  "author": "Kajabukama, Msafiri, Simon, Maneno,Mwampashi, Abdallah, Mosha, Jazila, Leonard, Sabai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kajabukama/tovutihalmashauri/issues"
+  },
+  "homepage": "https://github.com/Kajabukama/tovutihalmashauri#readme"
+}
